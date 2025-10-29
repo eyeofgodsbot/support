@@ -1,5 +1,6 @@
 User-agent: *
 User-agent: Yandex
-Sitemap: https://eyeofgodsbot.github.io/eyeofodgsbot/sitemap.xml
-Host: https://eyeofgodsbot.github.io/eyeofodgsbot/
+Sitemap: https://eyeofgodsbot.github.io/support/sitemap.xml
+Host: https://eyeofgodsbot.github.io/support/
+
 
